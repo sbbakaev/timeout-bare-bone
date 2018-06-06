@@ -2,7 +2,7 @@ module.exports.sleep = sleep;
 module.exports.timeout = timeout;
 
 console.clear();
-timeout(sleep(100), 20);
+// timeout(sleep(100), 20);
 
 function timeout(p, t) {
   const failure = new Promise( (resolve, reject) => {
