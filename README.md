@@ -1,3 +1,7 @@
+1. run comand `npm install`
+2. run tests `npm test`
+
+=== Home task ===
 1. fork this repository
 2. clone forked repo to your machine
 3. initialize package.json
